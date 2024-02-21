@@ -1,0 +1,3 @@
+C:/Universidad/Tercer semestre/Progra/EJERCICIO 18_03_23/cmake-build-debug/CMakeFiles/EJERCICIO_18_03_23.dir
+C:/Universidad/Tercer semestre/Progra/EJERCICIO 18_03_23/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Universidad/Tercer semestre/Progra/EJERCICIO 18_03_23/cmake-build-debug/CMakeFiles/rebuild_cache.dir
